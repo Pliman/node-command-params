@@ -1,0 +1,23 @@
+{
+  "name": "node-command-params",
+  "version": "0.1.0",
+  "description": "get node command line params",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pliman/node-command-params.git"
+  },
+  "keywords": [
+    "node-command",
+    "param"
+  ],
+  "author": "Pliman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pliman/node-command-params/issues"
+  },
+  "homepage": "https://github.com/Pliman/node-command-params#readme"
+}
